@@ -1,4 +1,4 @@
-An absolute bare-bones web app.
+# 3d version of matt parker's tree
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+## How to animate
+edit the `animateTick` function in `web/main.dart`
